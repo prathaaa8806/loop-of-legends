@@ -1,0 +1,25 @@
+<?php
+include('auth.php');
+include('db.php');
+
+if (isset($_GET['id']) && is_numeric($_GET['id'])) {
+  $id = (int) $_GET['id'];
+
+  // Restore the review by setting deleted = 0
+  $stmt = $conn->prepare("UPDATE reviews SET deleted = 0 WHERE id = ?");
+  $stmt->bind_param("i", $id);
+
+  if ($stmt->execute()) {
+    header("Location: manage_reviews.php?restored=1");
+    exit();
+  } else {
+    header("Location: manage_reviews.php?error=1");
+    exit();
+  }
+
+  $stmt->close();
+} else {
+  header("Location: manage_reviews.php");
+  exit();
+}
+?>
