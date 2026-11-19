@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 **Loop of Legends** is an immersive fantasy gaming and multimedia web portal. Built with a rich dark-fantasy aesthetic, it invites users to explore a legendary universe filled with mythical kingdoms, powerful heroes, dark villains, interactive story episodes, and playable games.
 
@@ -23,31 +23,31 @@ The platform includes both an **interactive user-facing portal** and a **compreh
 
 ---
 
-## ✨ Features
+## Features
 
-### 🌐 User Portal
-- **🏰 Mythic Kingdoms & Lore**: Explore legendary lands including the *Kingdom of Ember*, *Kingdom of Glacia*, *Kingdom of Syliva*, *Kingdom of Umbra*, and the *Samurai Realm*.
-- **🗺️ Interactive Realm Map**: Visual map with clickable hotspots detailing realms, territories, and secrets.
-- **🛡️ Character Archives**: Detailed profiles, lore backgrounds, factions, and statistics for legendary heroes and villains.
-- **🎬 Episodes & Storylines**: Serialized lore chapters and episode releases.
-- **🎮 Playable Mini-Games**: Built-in mini-game center with playable interactive experiences and release announcements.
-- **🖼️ Media Gallery & Wallpapers**: High-resolution digital art, concept paintings, and cinematics.
-- **🎵 Atmospheric Audio & SFX**: Integrated ambient soundscapes (battle ambiances, orchestral themes, nature sounds).
-- **⭐ Community Reviews & Support**: User review submission system, trailer feedback, and direct contact/help desk forms.
+###  User Portal
+- ** Mythic Kingdoms & Lore**: Explore legendary lands including the *Kingdom of Ember*, *Kingdom of Glacia*, *Kingdom of Syliva*, *Kingdom of Umbra*, and the *Samurai Realm*.
+- ** Interactive Realm Map**: Visual map with clickable hotspots detailing realms, territories, and secrets.
+- ** Character Archives**: Detailed profiles, lore backgrounds, factions, and statistics for legendary heroes and villains.
+- ** Episodes & Storylines**: Serialized lore chapters and episode releases.
+- ** Playable Mini-Games**: Built-in mini-game center with playable interactive experiences and release announcements.
+- ** Media Gallery & Wallpapers**: High-resolution digital art, concept paintings, and cinematics.
+- ** Atmospheric Audio & SFX**: Integrated ambient soundscapes (battle ambiances, orchestral themes, nature sounds).
+- ** Community Reviews & Support**: User review submission system, trailer feedback, and direct contact/help desk forms.
 
 ### ⚙️ Admin Control Panel
-- **🔐 Secure Authentication**: Protected login, registration, password reset, and session control.
-- **📊 Interactive Dashboard**: High-level metrics and statistics of all website assets.
-- **📝 Complete CRUD Operations**:
+- ** Secure Authentication**: Protected login, registration, password reset, and session control.
+- ** Interactive Dashboard**: High-level metrics and statistics of all website assets.
+- ** Complete CRUD Operations**:
   - Add, edit, soft-delete, and restore **Characters**.
   - Manage **Episodes**, storylines, and release schedules.
   - Manage **Games** and playable links.
   - Curate and update the **Media Gallery**.
-- **📬 Inquiries & Feedback Desk**: View incoming contact messages, moderate user reviews, and submit official replies.
+- ** Inquiries & Feedback Desk**: View incoming contact messages, moderate user reviews, and submit official replies.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend**: PHP (Object-Oriented & Procedural scripts)
 - **Database**: MySQL / MariaDB (Relational schema with normalized tables)
@@ -58,7 +58,7 @@ The platform includes both an **interactive user-facing portal** and a **compreh
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Page | Interactive Map |
 | :---: | :---: |
@@ -70,7 +70,7 @@ The platform includes both an **interactive user-facing portal** and a **compreh
 
 ---
 
-## 🚀 Installation & Local Setup
+## Installation & Local Setup
 
 ### Prerequisites
 - [XAMPP](https://www.apachefriends.org/) (with PHP 8.x and MySQL)
@@ -119,7 +119,7 @@ http://localhost/loop-of-legends/admin.php
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 
 ```text
 loop-of-legends/
@@ -150,7 +150,7 @@ loop-of-legends/
 
 ---
 
-## 👤 Author
+## Author
 
 Developed by **Pratha More**  
 - GitHub: [@prathaaa8806](https://github.com/prathaaa8806)
