@@ -1,4 +1,4 @@
-# ⚔️ Loop of Legends
+# Loop of Legends
 
 <div align="center">
 
@@ -55,18 +55,6 @@ The platform includes both an **interactive user-facing portal** and a **compreh
 - **Styling & Fonts**: Google Fonts (*Cinzel*, *Cinzel Decorative*), Bootstrap Icons
 - **Media & Audio**: HTML5 Audio & Video APIs, ElevenLabs voice recordings, Git LFS for media assets
 - **Local Server**: XAMPP / WampServer (Apache + MySQL)
-
----
-
-## Screenshots
-
-| Home Page | Interactive Map |
-| :---: | :---: |
-| <img src="Web%20SS/Web%20capture_23-8-2025_163148_localhost.jpeg" width="400"/> | <img src="Web%20SS/Web%20capture_23-8-2025_163838_localhost.jpeg" width="400"/> |
-
-| Characters & Lore | Admin Dashboard |
-| :---: | :---: |
-| <img src="Web%20SS/Web%20capture_23-8-2025_163931_localhost.jpeg" width="400"/> | <img src="Admin%20Panel%20SS/screencapture-localhost-8080-Loop-Of-Legends-Loop-Of-Legends-admin-register-php-2025-09-07-19_30_15.png" width="400"/> |
 
 ---
 
