@@ -35,7 +35,7 @@ The platform includes both an **interactive user-facing portal** and a **compreh
 - ** Atmospheric Audio & SFX**: Integrated ambient soundscapes (battle ambiances, orchestral themes, nature sounds).
 - ** Community Reviews & Support**: User review submission system, trailer feedback, and direct contact/help desk forms.
 
-### ⚙️ Admin Control Panel
+### Admin Control Panel
 - ** Secure Authentication**: Protected login, registration, password reset, and session control.
 - ** Interactive Dashboard**: High-level metrics and statistics of all website assets.
 - ** Complete CRUD Operations**:
