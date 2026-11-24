@@ -14,7 +14,7 @@
 </div>
 
 ---
-
+## Project Initiated: October 25, 2025
 ## About the Project
 
 **Loop of Legends** is an immersive fantasy gaming and multimedia web portal. Built with a rich dark-fantasy aesthetic, it invites users to explore a legendary universe filled with mythical kingdoms, powerful heroes, dark villains, interactive story episodes, and playable games.
